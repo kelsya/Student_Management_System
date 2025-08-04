@@ -1,0 +1,30 @@
+{
+    "1234567890": {
+        "student_id": "1234567890",
+        "name": "Nur Aisya",
+        "age": 18,
+        "course": "BIC1114 Introduction to Programming",
+        "gpa": 3.5
+    },
+    "1234567891": {
+        "student_id": "1234567891",
+        "name": "Jie Ning",
+        "age": 19,
+        "course": "Compuuter Graphics",
+        "gpa": 4.0
+    },
+    "1234567897": {
+        "student_id": "1234567897",
+        "name": "Muhammad Zharfan",
+        "age": 16,
+        "course": "BIC1234 ABC",
+        "gpa": 3.2
+    },
+    "1234567896": {
+        "student_id": "1234567896",
+        "name": "Umar Faiq",
+        "age": 20,
+        "course": "BIS1111 XYZ",
+        "gpa": 2.5
+    }
+}
